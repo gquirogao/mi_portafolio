@@ -1,0 +1,24 @@
+* {
+	font-family: roboto condensed;
+}
+
+nav {
+	background-color: #d0fa00;
+	height: 150px;
+
+}
+
+.logo_nav {
+	margin-left: 50px;
+}
+
+
+.bg-hero {
+	width: 100%;
+}
+
+.titulo {
+	color: #9c9c9c;
+	font-weight: 700;
+	text-align: center;
+}

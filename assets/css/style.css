@@ -1,5 +1,6 @@
 * {
 	font-family: roboto condensed;
+	margin: 0;
 }
 
 nav {
@@ -51,3 +52,18 @@ nav {
 .modal-title {
 	font-weight: 700;
 }
+
+footer {
+	color: white;
+	height: 150px;
+	background-color: #d0fa00;
+	bottom: 0;
+}
+footer i {
+	display: inline-block;
+	padding-right: 50%;
+	padding-left: 50%;
+	padding-top: 15px;
+
+}
+

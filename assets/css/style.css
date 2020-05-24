@@ -22,3 +22,24 @@ nav {
 	font-weight: 700;
 	text-align: center;
 }
+
+
+#carouselExampleCaptions {
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+#items h5 {
+	background-color: white;
+	color: #232424;
+	font-weight: 700;
+	margin:0;
+	padding: 10px;
+}
+
+#items p {
+	background-color: white;
+	color: #232424;
+	margin:0;
+	padding: 10px;
+}

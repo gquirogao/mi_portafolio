@@ -4,7 +4,7 @@
 
 nav {
 	background-color: #d0fa00;
-	height: 150px;
+	height: 80px;
 
 }
 
@@ -24,6 +24,11 @@ nav {
 	text-align: center;
 }
 
+.subtitulo {
+	font-size: 12pt;
+	text-align: center;
+	font-style: italic;
+}
 
 #carouselExampleCaptions {
 	padding-left: 15%;
@@ -57,12 +62,12 @@ footer {
 	display: inline-block;
 	background-color: #d0fa00;
 	width: 100%;
-	height: 100px;
+	height: 80px;
 }
 
 footer i {
 	color: white;
 	padding-right: 48%; 
 	padding-left: 48%;
-	padding-top: 10px;
+	padding-top: 3px;
 }

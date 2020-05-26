@@ -1,5 +1,6 @@
 * {
 	font-family: roboto condensed;
+
 }
 
 nav {
@@ -7,9 +8,13 @@ nav {
 	height: 80px;
 
 }
-
+		
 .bg-hero {
-	width: 100%;
+	background-image: url('../img/header.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 90vh;
 
 }
 

@@ -37,6 +37,7 @@ nav {
 
 #items h5 {
 	background-color: white;
+	box-shadow: 2px 7px 7px #9c9c9c;
 	color: #232424;
 	font-weight: 700;
 	margin:0;
@@ -45,6 +46,7 @@ nav {
 
 #items p {
 	background-color: white;
+	box-shadow: 2px 7px 7px #9c9c9c;
 	color: #232424;
 	margin:0;
 	padding: 10px;
@@ -54,9 +56,6 @@ nav {
 	font-weight: 700;
 }
 
-.modal-title {
-	font-weight: 700;
-}
 
 footer {
 	display: inline-block;
@@ -70,4 +69,14 @@ footer i {
 	padding-right: 48%; 
 	padding-left: 48%;
 	padding-top: 3px;
+}
+
+.modal-header {
+	background-color: #d0fa00;
+	color: #232424;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+    color: #232424;
 }

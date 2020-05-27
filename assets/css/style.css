@@ -1,5 +1,6 @@
 * {
 	font-family: roboto condensed;
+	margin: 0;
 
 }
 
@@ -10,11 +11,12 @@ nav {
 }
 		
 .bg-hero {
-	background-image: url('../img/header.jpg');
+	background-image: url('../img/bg-hero.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
-	height: 90vh;
+	width: 100vw;
+	height: 650px;
 
 }
 
@@ -35,27 +37,17 @@ nav {
 	font-style: italic;
 }
 
-#carouselExampleCaptions {
-	padding-left: 15%;
-	padding-right: 15%;
+#carouselExampleControls {
+	padding-left: 10%;
+	padding-right: 10%;
 }
 
-#items h5 {
-	background-color: white;
-	box-shadow: 2px 7px 7px #9c9c9c;
-	color: #232424;
-	font-weight: 700;
-	margin:0;
-	padding: 10px;
+.titulo_subtitulo {
+	text-align: center;
+	
 }
 
-#items p {
-	background-color: white;
-	box-shadow: 2px 7px 7px #9c9c9c;
-	color: #232424;
-	margin:0;
-	padding: 10px;
-}
+
 
 .card-title {
 	font-weight: 700;
